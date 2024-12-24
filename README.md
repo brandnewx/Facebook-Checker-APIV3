@@ -1,4 +1,4 @@
-# Facebook Account Checker
+# Facebook Account Checker 
 
 Facebook Account Checker is a Python application used to verify the status of Facebook accounts, whether they are live, checkpointed, or dead. This program can be used to check the security of your own accounts or understand the status of a specific Facebook account.
 
